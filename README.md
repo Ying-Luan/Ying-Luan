@@ -1,5 +1,11 @@
-﻿[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=600&lines=Hi%2C+I'm+Ying+Luan!)](https://ying-luan.github.io/)
+﻿<p align="center">
+  <a href="https://ying-luan.github.io/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=600&lines=Hi%2C+I'm+Ying+Luan!" />
+  </a>
+  <br/>
+  
+  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="github-profile-3d-contrib" />
+  <br/>
 
-![github-profile-3d-contrib](./profile-3d-contrib/profile-season-animate.svg)
-
-![Ying_Luan_Counter](https://count.getloli.com/@Ying_Luan_Counter?name=Ying_Luan_Counter&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+  <img src="https://count.getloli.com/@Ying_Luan_Counter?name=Ying_Luan_Counter&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Ying_Luan_Counter" />
+</p>
