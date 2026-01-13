@@ -1,5 +1,5 @@
 ﻿<p align="center">
-  <a href="https://ying-luan.github.io/">
+  <a href="https://yingluan.cc/">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=600&lines=Hi%2C+I'm+Ying+Luan!" />
   <br/>
   
